@@ -1,4 +1,4 @@
-package com.javaproject.springbootdiaw.springboot_di_aw;
+package com.javaproject.springbootdiaw.springboot_di_aw.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
